@@ -1,1 +1,2 @@
 rootProject.name = 'hypershard'
+include ':kastree', ':kastree:ast:ast-common', ':kastree:ast:ast-jvm', ':kastree:ast-psi'
